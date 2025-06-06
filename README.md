@@ -1,8 +1,7 @@
 # 🎨 Arte Aleatória – Plugin para Figma
+Este é um plugin simples e divertido para Figma que gera arte aleatória com formas geométricas e cores vibrantes
 
- <img src="Plugins-Figma.gif" alt="GIF animado">
- 
-Este é um plugin simples e divertido para Figma que gera arte aleatória com formas geométricas e cores vibrantes.
+<img src="Plugins-Figma.gif" alt="GIF animado">
 
 ## ✨ O que ele faz
 
