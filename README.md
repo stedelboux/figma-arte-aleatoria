@@ -10,8 +10,8 @@ Este é um plugin simples e divertido para Figma que gera arte aleatória com fo
 - Aplica cores vibrantes em cada forma
 - Permite escolher a quantidade de formas via interface
 
-<img src="Screenshot_02.jpg" alt="Descrição da imagem">
-<img src="Screenshot_03.jpg" alt="Descrição da imagem">
+<img src="Screenshot_02.png" alt="Descrição da imagem">
+<img src="Screenshot_03.png" alt="Descrição da imagem">
 
 ## 🧩 Como usar
 
@@ -20,7 +20,7 @@ Este é um plugin simples e divertido para Figma que gera arte aleatória com fo
 3. Selecione o arquivo `manifest.json`
 4. Execute o plugin via `Menu > Plugins > Development > Arte Aleatória`
 
-<img src="Screenshot_01.jpg" alt="Descrição da imagem">
+<img src="Screenshot_01.png" alt="Descrição da imagem">
 
 ## 📦 Estrutura
 
