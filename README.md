@@ -27,6 +27,5 @@ Este plugin foi criado como meu primeiro experimento combinando **design e progr
 
 ---
 
-Feito com ❤️ por [Seu nome]  
-📫 [Seu LinkedIn ou site]
+Feito com ❤️ por [Ste D'Elboux]
 
