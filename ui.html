@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      body {
+        font-family: sans-serif;
+        padding: 16px;
+        width: 240px;
+      }
+      label {
+        display: block;
+        margin-bottom: 8px;
+      }
+      input {
+        width: 100%;
+        margin-bottom: 12px;
+      }
+      button {
+        width: 100%;
+        padding: 8px;
+        background-color: #18a0fb;
+        color: white;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+      }
+    </style>
+  </head>
+  <body>
+    <label for="count">Quantas formas?</label>
+    <input type="number" id="count" value="10" min="1" max="100" />
+    <button id="generate">Gerar Arte 🎨</button>
+
+    <script>
+      document.getElementById("generate").onclick = () => {
+        const count = parseInt(document.getElementById("count").value, 10);
+        parent.postMessage({ pluginMessage: { type: "generate", count } }, "*");
+      };
+    </script>
+  </body>
+</html>
